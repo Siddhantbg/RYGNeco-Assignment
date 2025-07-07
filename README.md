@@ -15,7 +15,7 @@ A modern, responsive personal task management application built with React, Vite
 ## 🛠 Setup Instructions
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Siddhantbg/RYGNeco-Assignment.git
    cd task-tracker
    ```
 
